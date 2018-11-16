@@ -1,0 +1,10 @@
+C:\dev\DITutorial\DITutorial\bin\Debug\DITutorial.exe.config
+C:\dev\DITutorial\DITutorial\bin\Debug\DITutorial.exe
+C:\dev\DITutorial\DITutorial\bin\Debug\DITutorial.pdb
+C:\dev\DITutorial\DITutorial\obj\Debug\DITutorial.csprojAssemblyReference.cache
+C:\dev\DITutorial\DITutorial\obj\Debug\DITutorial.csproj.CoreCompileInputs.cache
+C:\dev\DITutorial\DITutorial\obj\Debug\DITutorial.exe
+C:\dev\DITutorial\DITutorial\obj\Debug\DITutorial.pdb
+C:\dev\DITutorial\DITutorial\bin\Debug\SimpleInjector.dll
+C:\dev\DITutorial\DITutorial\bin\Debug\SimpleInjector.xml
+C:\dev\DITutorial\DITutorial\obj\Debug\DITutorial.csproj.CopyComplete
